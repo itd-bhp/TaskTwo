@@ -1,0 +1,18 @@
+{
+  "resources":[
+    {
+      "id":"s1",
+      "first_name":"cheryl",
+      "last_name": "Amos",
+      "is_active":"TRUE",
+      "email":"jack123@gmail.com"
+    },
+    {
+      "id":"s2",
+      "first_name":"paul",
+      "last_name": "berks",
+      "is_active":"TRUE",
+      "email":"nichole3sa@gamil.com"
+    }
+  ]
+}
