@@ -1,0 +1,18 @@
+{
+  "assignments":[
+    {
+      "id":"1",
+      "task_id":"2",
+      "resource_id":"s1",
+      "etc":"26.0",
+      "actuals":"36.51"
+    },
+    {
+      "id":"2",
+      "task_id":"1",
+      "resource_id":"s2",
+      "etc":"24.02",
+      "actuals":"36.51"
+    }
+  ]
+}
